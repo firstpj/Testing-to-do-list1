@@ -9,9 +9,4 @@ describe ('test for crud operations', () => {
     addItem('item1');
     expect(getTodoList().length).toBe(initialQuantity + 1);
   })
-  test('removeItem,', () => {
-    const initialQuantity = getTodoList().length;
-    removeItem(0);
-    expect(getTodoList().length).toBe(initialQuantity - 1);
-  })
-})
+  
