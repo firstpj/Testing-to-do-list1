@@ -19,7 +19,7 @@
 
 # 📖 [To Do list] <a name="about-project"></a>
 
-**[To Do list]** This website helps you tract your daily activities and targets, also allows you to add new tasks edit previous ones and remove achieved ones.
+**[To Do list]** This website is a test version of ToDo List that helps you to track your daily activities and targets, also allows you to add new tasks edit previous ones and remove achieved ones.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,6 +80,9 @@ Run npm dev to view the project on local host(npm run dev)
 - Twitter: [@AkordaC](https://twitter.com/AkordaC)
 - LinkedIn: [Collins Akorda](https://www.linkedin.com/in/collins-akorda-bb46b2232/)
 
+👤 ***Albert Antwi**
+
+ GitHub: [albertkantwi](https://github.com/albertkantwi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,9 +107,9 @@ Give a star if you like this project if you like it!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I want to give special thanks to Microverse for the great opportunity given to me to realise my dreams.
+We want to give special thanks to Microverse for the great opportunity given to me to realize our dreams.
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/firstpj/Testing-to-do-list1./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
