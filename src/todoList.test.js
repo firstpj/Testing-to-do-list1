@@ -22,7 +22,11 @@ describe('test for crud operations', () => {
     markCompleted(0);
     expect(getTodoList()[0].completed).toBe(true);
   });
-  
+  test('remove-completed-items', () => {
+    const uncompleted = getTodoList().filter((x) => x.completed !== true).length;
+    removeCompletedItems();
+    expect(getTodoList().length).toBe(uncompleted);
+  });
   test('removeItem,', () => {
     addItem('item1');
     const initialQuantity = getTodoList().length;
